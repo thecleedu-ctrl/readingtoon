@@ -1,0 +1,20 @@
+{
+  "name": "2026 고1 9월 모의고사 · 더클영어 리딩툰",
+  "short_name": "9월 모의고사",
+  "description": "2026년 9월 고1 전국연합학력평가 18~42번 21지문을 웹툰 컷으로 읽는 교재",
+  "lang": "ko",
+  "dir": "ltr",
+  "start_url": "./?app=1",
+  "scope": "./",
+  "id": "/2026-go1-09/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F1FB",
+  "theme_color": "#7A1B32",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

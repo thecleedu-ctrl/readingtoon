@@ -1,0 +1,20 @@
+{
+  "name": "무거고1 웹툰모의고사 · 더클영어 리딩툰",
+  "short_name": "무거고1",
+  "description": "2026년 9월 고1 학력평가 21·22·23·29·30·32번 여섯 지문을 웹툰 컷으로 읽는 교재",
+  "lang": "ko",
+  "dir": "ltr",
+  "start_url": "./?app=1",
+  "scope": "./",
+  "id": "/mugeo-go1-2609/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F1FB",
+  "theme_color": "#0B1A3A",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
