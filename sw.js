@@ -5,7 +5,7 @@
  * 그다음부터는 지하철에서도 열린다.
  */
 const SHELL = 'rt-shell-v1';
-const BOOKS = 'rt-books-v2';   // v2 — 컷마다 원어민 음성이 들어가 교재 파일이 바뀌었다. 옛 저장분을 버린다.
+const BOOKS = 'rt-books-v3';   // v3 — 아이폰 음성 재생 개선. 옛 저장분을 버린다.
 
 const SHELL_FILES = [
   './',
