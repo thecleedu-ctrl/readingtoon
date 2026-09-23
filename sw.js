@@ -5,7 +5,7 @@
  * 그다음부터는 지하철에서도 열린다.
  */
 const SHELL = 'rt-shell-v1';
-const BOOKS = 'rt-books-v3';   // v3 — 아이폰 음성 재생 개선. 옛 저장분을 버린다.
+const BOOKS = 'rt-books-v4';   // v4 — 아이폰용 웹 오디오 재생. 옛 저장분을 버린다.
 
 const SHELL_FILES = [
   './',
